@@ -1,0 +1,48 @@
+﻿body {
+    background-color: #fff;
+}
+
+.s-header {
+    background-image:url("../img/banner-cm.jpg");
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+
+.s-header img {
+    margin-top: 15px;
+}
+
+.s-header h3 {
+    font-weight: bolder;
+    color: #31B0D5;
+}
+
+.join-us {
+    color:#31B0D5;
+    text-align:center;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.service img {
+    width:100px;
+    height:100px;
+}
+
+.service p {
+    font-size:24px;
+    color:#4c4c4c;
+    text-align:center;
+    font-weight:bolder;
+    margin-top: 15px;
+}
+
+footer{
+    margin-top:50px;
+}
+
+footer p {
+    font-size: small;
+    font-weight:bold;
+}
+
