@@ -1,0 +1,290 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <title>Chasqui-Entregas</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">    
+    <meta name="robots" content="index, follow">
+    <meta name="keywords" content="Entrega de pedidos por delivery" />
+    <meta name="title" content="Chasqientrega">
+    
+    <meta id="og_image" property="og:image" content="img/logo.jpg">
+    <link rel="icon" href="img/logo.jpg">
+    
+    <meta name="author" content="Raiko">
+    <meta name="description" content="Entrega de pedidos por delivery" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Open Graph data -->
+    <meta property="og:title" content="Chasqientrega" />
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://app-pe.github.io/chasqientrega/index.html" />
+    <meta property="og:image" content="" />
+    <meta property="og:description" content="Entrega de pedidos por delivery" />
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Entrega de pedidos por delivery">
+    <meta name="twitter:image" content="">
+    
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <!-- Google tags -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Vollkorn:400,600,600i,700" rel="stylesheet">
+    <!-- own libraries -->    
+    <link href="css/main.css" rel="stylesheet" />    
+    <style type="text/css"> 
+    a:link 
+    { 
+    text-decoration:none; 
+    } 
+    </style>
+    <!-- google sc -->
+
+    <!-- google an -->
+
+  </head>
+  <body>
+    <!-- header -->
+    <header>
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-bottom">        
+          <a class="navbar-brand" href="http://bit.ly/canal-consultas">
+            <!-- marca -->
+            Contáctenos
+          </a>        
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+          <ul class="navbar-nav mr-auto">
+            <!--
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+            </li>
+            
+            <li class="nav-item">
+              <a class="nav-link active" href="servicios.html">Servicios</a>
+            </li>   
+          -->
+          </ul>
+          <form class="form-inline mt-2 mt-md-0">         
+            <a class="btn btn-outline-info my-2 my-sm-0" href="http://bit.ly/canal-consultas" role="button">Contáctenos</a>
+            <!--<button class="btn btn-outline-info my-2 my-sm-0" type="submit" href="">Contáctenos</button>-->
+          </form>
+        </div>
+      </nav>
+    </header>
+    <!-- main -->
+    <main role="main">      
+      
+        <img src="img/logo.jpg" class="img-fluid rounded-0 mx-auto d-block" alt="Responsive image" with="100%">
+
+      <!-- pk1 -->
+      <div class="card text-white rounded-0 bg-dark" style="background-color: #e5e5e5">
+          <div class="card-header text-center border-0 h6">Haz tu entrega fácil y rápida</div>
+      </div>
+
+      <!-- Entregas -->
+      <img src="img/bannerlp.jpg" class="img-fluid rounded-0 mx-auto d-block" alt="Responsive image" with="100%">
+
+
+      <!-- Consultas -->      
+      <div class="card text-white rounded-0 bg-dark mb-3" style="background-color: #e5e5e5">
+          <div class="card-header text-center border-0 h6">Selecciona el distrito de recojo y entrega</div>
+      </div>
+
+      <div class="container">
+
+        <div class="row">
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Distrito recojo</label>
+              <div class="col-sm-10">
+                <select id="recojo" class="form-control" onchange="distritoRecojo();">
+                  <option selected>seleccione</option>
+                  <option value="1">BREÑA</option>
+                  <option value="2">CERCADO DE LIMA</option>
+                  <option value="3">COMAS</option>
+                  <option value="4">JESUS MARIA</option>
+                  <option value="5">LA MOLINA</option>
+                  <option value="6">LINCE</option>
+                  <option value="7">LOS OLIVOS</option>
+                  <option value="8">MIRAFLORES</option>
+                  <option value="9">SAN BORJA</option>
+                  <option value="10">SAN ISIDRO</option>
+                  <option value="11">SAN JUAN MIRAFLORES</option>
+                  <option value="12">SAN MARTIN DE PORRES</option>
+                  <option value="13">SURCO</option>
+                  <option value="14">VILLA MARIA</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Distrito entrega</label>
+              <div class="col-sm-10">
+                <select id="entrega" class="form-control" onchange="distritoEntrega();">
+                  <option selected>seleccione</option>
+                  <option value="1">BREÑA</option>
+                  <option value="2">CERCADO DE LIMA</option>
+                  <option value="3">COMAS</option>
+                  <option value="4">JESUS MARIA</option>
+                  <option value="5">LA MOLINA</option>
+                  <option value="6">LINCE</option>
+                  <option value="7">LOS OLIVOS</option>
+                  <option value="8">MIRAFLORES</option>
+                  <option value="9">SAN BORJA</option>
+                  <option value="10">SAN ISIDRO</option>
+                  <option value="11">SAN JUAN MIRAFLORES</option>
+                  <option value="12">SAN MARTIN DE PORRES</option>
+                  <option value="13">SURCO</option>
+                  <option value="14">VILLA MARIA</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Ubicación recojo</label>
+              <div class="col-sm-10">
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Ubicación entrega</label>
+              <div class="col-sm-10">
+                <input type="text" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+              </div>
+            </div>
+          </div>
+        </div>
+
+         <div class="row">
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Tipo empaque</label>
+              <div class="col-sm-10">
+                <select id="recojo" class="form-control" onchange="distritoRecojo();">
+                  <option selected>seleccione</option>
+                  <option value="1">bolsa 1kg</option>
+                  <option value="2">bolsa 10kg</option>
+                  <option value="3">bolsa +10kg</option>
+                  <option value="4">caja 1kg</option>
+                  <option value="5">caja 10kg</option>
+                  <option value="6">caja +10kg</option>
+                  <option value="7">otros</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Tipo pago</label>
+              <div class="col-sm-10">
+                <select id="entrega" class="form-control" onchange="distritoEntrega();">
+                  <option selected>seleccione</option>
+                  <option value="1">EFECTIVO</option>
+                  <option value="2">BCP</option>
+                  <option value="3">BBVA</option>
+                  <option value="4">YAPE</option>
+                  <option value="5">Otros</option>
+                </select>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <div class="form-group row">
+              <label for="inputEmail3" class="col-sm-2 col-form-label">Fecha recojo</label>
+              <div class="col-sm-10">
+                <input type="date" id="fechaActual1" name="trip-start"
+               
+               min="" max="2021-12-31">
+              </div>
+        
+            </div>
+          </div>
+          <div class="col">
+            <div class="form-group row">
+                      <label for="inputEmail3" class="col-sm-2 col-form-label">Hora recojo</label>
+              <div class="col-sm-10">
+                <select id="entrega" class="form-control" onchange="distritoEntrega();">
+                  <option selected>seleccione</option>
+                  <option value="1">08:00-11:00</option>
+                  <option value="2">11:00-14:00</option>
+                  <option value="3">14:00-17:00</option>                  
+                </select>
+              </div>
+            </div>
+          </div>
+
+        </div>
+
+       
+
+        
+
+
+        <div class="row">
+          <div class="col">
+            <button type="button" class="btn btn-danger" onclick="tarifa();">Consultar Tarifas</button>
+          </div>
+
+          <div class="col">
+            <div class="input-group">
+              <div class="input-group-prepend">
+                <span class="input-group-text" id="txttar">Tarifa</span>
+              </div>
+              <input type="text" class="form-control" id="txttarifa" disabled>
+            </div>       
+          </div>
+        
+        </div>
+
+      </div>
+
+
+
+
+      <!-- canal-whatsapp -->
+      <div align="center">   
+        <strong>Contáctenos</strong>
+        <a href="http://bit.ly/canal-consultas">
+        <img src="img/wasap.jpg" class="center-block img-responsive" alt="" width="30" height="30">         
+        </a>
+      </div>
+            
+      <!-- footer -->
+      <footer class="container">        
+        <p class="text-muted text-center">Copyright © 2020. CHASQiENTREGA todos los derechos reservados</p>
+      </footer>
+    </main>
+   
+    <script>
+      window.onload = function(){
+  var fecha = new Date(); //Fecha actual
+  var mes = fecha.getMonth()+1; //obteniendo mes
+  var dia = fecha.getDate(); //obteniendo dia
+  var ano = fecha.getFullYear(); //obteniendo año
+  if(dia<10)
+    dia='0'+dia; //agrega cero si el menor de 10
+  if(mes<10)
+    mes='0'+mes //agrega cero si el menor de 10
+  document.getElementById('fechaActual1').min=ano+"-"+mes+"-"+dia;
+  document.getElementById('fechaActual2').min=ano+"-"+mes+"-"+dia;
+}
+    </script>
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  </body>
+</html>
