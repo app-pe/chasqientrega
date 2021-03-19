@@ -1,0 +1,73 @@
+{
+ "distritos":[{
+		"numdisrecojo": "1",
+		"nomdisrecojo": "BREÑA",
+		"tarifa": "20"
+		},     
+		{
+		"numdisrecojo": "2",
+		"nomdisrecojo": "CERCADO DE LIMA",
+		"tarifa": "20"
+		},       
+		{
+		"numdisrecojo": "3",
+		"nomdisrecojo": "COMAS",
+		"tarifa": "20"
+		},
+		{
+		"numdisrecojo": "4",
+		"nomdisrecojo": "JESUS MARIA",
+		"tarifa": "20"
+		},
+		{
+		"numdisrecojo": "5",
+		"nomdisrecojo": "LA MOLINA",
+		"tarifa": "20"
+		},     
+		{
+		"numdisrecojo": "6",
+		"nomdisrecojo": "LINCE",
+		"tarifa": "20"
+		},    
+		{
+		"numdisrecojo": "7",
+		"nomdisrecojo": "LOS OLIVOS",
+		"tarifa": "20"
+		},    
+		{
+		"numdisrecojo": "8",
+		"nomdisrecojo": "MIRAFLORES",
+		"tarifa": "20"
+		},    
+		{
+		"numdisrecojo": "9",
+		"nomdisrecojo": "SAN BORJA",
+		"tarifa": "20"
+		},    
+		{
+		"numdisrecojo": "10",
+		"nomdisrecojo": "SAN ISIDRO",
+		"tarifa": "20"
+		},    
+		{
+		"numdisrecojo": "11",
+		"nomdisrecojo": "SAN JUAN MIRAFLORES",
+		"tarifa": "20"
+		},  
+		{
+		"numdisrecojo": "12",
+		"nomdisrecojo": "SAN MARTIN DE PORRES",
+		"tarifa": "20"
+		},  
+		{
+		"numdisrecojo": "13",
+		"nomdisrecojo": "SURCO",
+		"tarifa": "20"
+		},  
+		{
+		"numdisrecojo": "14",
+		"nomdisrecojo": "VILLA MARIA",
+		"tarifa": "20"
+		}                   	 
+	]
+}
