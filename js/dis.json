@@ -9250,11 +9250,11 @@
   		"tipoempaque": 1,
   		"nomtipoempaque": "bolsa",
   		"nomempaque": [{
-  			"presentacion":"bolsa <10kg", 
+  			"presentacion":"bolsa < 10kg", 
   			"tarifapeso": 0
   		},
   		{
-  			"presentacion":"bolsa >10kg", 
+  			"presentacion":"bolsa > 10kg", 
   			"tarifapeso": 5
   		}  		
   		]
@@ -9263,18 +9263,23 @@
   		"tipoempaque": 2,
   		"nomtipoempaque": "caja",
   		"nomempaque": [{
-  			"presentacion":"caja <10kg", 
+  			"presentacion":"caja < 10kg", 
   			"tarifapeso": 0
   		},
   		{
-  			"presentacion":"caja >10kg", 
+  			"presentacion":"caja > 10kg", 
   			"tarifapeso": 5
   		}  			
   		]
   	},
   	{
   		"tipoempaque": 3,
-  		"nomtipoempaque": "otros"
+  		"nomtipoempaque": "otros",
+  		"nomempaque": [{
+  			"presentacion":"otros", 
+  			"tarifapeso": 0
+  		}  				
+  		]
   	}  
   		
   ] 
