@@ -218,73 +218,9033 @@
   "rutas":[{
  		"numdisrecojo": 1,
  		"numdisentrega": 2,
- 		"tarifa": 15
+ 		"tarifa": 70
  		},     
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 3,
- 		"tarifa": 35
+ 		"tarifa": 70
  		},       
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 4,
- 		"tarifa": 15
+ 		"tarifa": 70
  		},
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 5,
- 		"tarifa": 40
+ 		"tarifa": 70
  		},
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 6,
- 		"tarifa": 15
+ 		"tarifa": 70
  		},     
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 7,
- 		"tarifa": 25
+ 		"tarifa": 70
  		},    
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 8,
- 		"tarifa": 25
+ 		"tarifa": 70
  		},    
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 9,
- 		"tarifa": 25
+ 		"tarifa": 80
  		},    
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 10,
- 		"tarifa": 20
+ 		"tarifa": 80
  		},    
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 11,
- 		"tarifa": 30
+ 		"tarifa": 80
  		},    
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 12,
- 		"tarifa": 20
+ 		"tarifa": 80
  		},  
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 13,
- 		"tarifa": 30
+ 		"tarifa": 80
  		},  
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 14,
- 		"tarifa": 40
+ 		"tarifa": 100
  		},  
  		{
  		"numdisrecojo": 1,
  		"numdisentrega": 15,
- 		"tarifa": 25
- 		}                   	 
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 37,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},  
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 40,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 42,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 1,
+ 		"numdisentrega": 43,
+ 		"tarifa": 200
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 8,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 2,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 8,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 3,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 8,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 4,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 8,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 5,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 8,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 6,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 8,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 7,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 8,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 9,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 10,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 11,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 13,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 12,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 13,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 14,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 15,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 16,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 17,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 18,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 19,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 20,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 21,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 22,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 23,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 24,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 26,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 25,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 26,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 27,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 28,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 29,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 31,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 30,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 32,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 31,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 33,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 32,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 33,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 35,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 34,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 36,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 35,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 36,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 37,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 39,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 38,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 40,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 39,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 39,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 41,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 40,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 39,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 40,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 41,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 39,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 40,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 41,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 42,
+ 		"numdisentrega": 43,
+ 		"tarifa": 150
+ 		},	
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 1,
+ 		"tarifa": 70
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 2,
+ 		"tarifa": 70
+ 		},       
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 3,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 4,
+ 		"tarifa": 70
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 5,
+ 		"tarifa": 70
+ 		},     
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 6,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 7,
+ 		"tarifa": 70
+ 		},    
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 8,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 9,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 10,
+ 		"tarifa": 80
+ 		},    
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 11,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 12,
+ 		"tarifa": 80
+ 		},  
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 13,
+ 		"tarifa": 100
+ 		},  
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 14,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 15,
+ 		"tarifa": 100
+ 		}, 
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 16,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 17,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 18,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 19,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 20,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 21,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 22,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 23,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 24,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 25,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 26,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 27,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 28,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 29,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 30,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 31,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 32,
+ 		"tarifa": 120
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 33,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 34,
+ 		"tarifa": 100
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 35,
+ 		"tarifa": 150
+ 		}, 		
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 36,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 37,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 38,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 39,
+ 		"tarifa": 150
+ 		},  
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 40,
+ 		"tarifa": 200
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 41,
+ 		"tarifa": 150
+ 		},
+ 		{
+ 		"numdisrecojo": 43,
+ 		"numdisentrega": 42,
+ 		"tarifa": 150
+ 		} 		                     	 
  	],
 "empaque":[{
   		"tipoempaque": 1,
