@@ -9249,42 +9249,32 @@
 "empaque":[{
   		"tipoempaque": 1,
   		"nomtipoempaque": "bolsa",
-  		"nomempaque": [{
-  			"presentacion":"bolsa < 10kg", 
-  			"tarifapeso": 0
-  		}]  		
+  		"presentacion":"bolsa < 10kg", 
+  		"tarifapeso": 0  		 		
   	}, 
   	{
   		"tipoempaque": 1,
   		"nomtipoempaque": "bolsa",
-  		"nomempaque": [{
-  			"presentacion":"bolsa > 10kg", 
-  			"tarifapeso": 5
-  		}]  			
+  		"presentacion":"bolsa > 10kg", 
+  		"tarifapeso": 5  	 			
   	},
   	{
   		"tipoempaque": 2,
   		"nomtipoempaque": "caja",
-  		"nomempaque": [{
-  			"presentacion":"caja < 10kg", 
-  			"tarifapeso": 0
-  		}]  			
+  		"presentacion":"caja < 10kg", 
+  		"tarifapeso": 0  		 			
   	},
   	{
   		"tipoempaque": 2,
   		"nomtipoempaque": "caja",
-  		"nomempaque": [{
-  			"presentacion":"caja > 10kg", 
-  			"tarifapeso": 5
-  		}]  			
+  		"presentacion":"caja > 10kg", 
+  		"tarifapeso": 5  					
   	},
   	{
   		"tipoempaque": 3,
-  		"nomtipoempaque": "otros",
-  		"nomempaque": [{
-  			"presentacion":"otros", 
-  			"tarifapeso": 0
-  		}]  			
+  		"nomtipoempaque": "otros",  		
+  		"presentacion":"otros", 
+  		"tarifapeso": 0  					
   	}  		
   ] 
 }
