@@ -1,0 +1,335 @@
+{
+ "distritos":[{
+		"numdisrecojo": 1,
+		"nomdisrecojo": "Santa Rosa",
+		"tarifa": 60
+		},     
+		{
+		"numdisrecojo": 2,
+		"nomdisrecojo": "Puente Piedra",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 3,
+		"nomdisrecojo": "Ancón",
+		"tarifa": 80
+		}, 
+		{
+		"numdisrecojo": 4,
+		"nomdisrecojo": "Carabayllo",
+		"tarifa": 80
+		}, 
+		{
+		"numdisrecojo": 5,
+		"nomdisrecojo": "Independencia",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 6,
+		"nomdisrecojo": "Comas",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 7,
+		"nomdisrecojo": "San Martin de Porres",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 8,
+		"nomdisrecojo": "Los Olivos",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 9,
+		"nomdisrecojo": "Rimac",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 10,
+		"nomdisrecojo": "La Victoria",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 11,
+		"nomdisrecojo": "Cercado de Lima",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 12,
+		"nomdisrecojo": "Breña",
+		"tarifa": 50
+		}, 
+		{
+		"numdisrecojo": 13,
+		"nomdisrecojo": "San Luis",
+		"tarifa": 50
+		},       
+		{
+		"numdisrecojo": 14,
+		"nomdisrecojo": "Barranco",
+		"tarifa": 30
+		},
+		{
+		"numdisrecojo": 15,
+		"nomdisrecojo": "Surquillo",
+		"tarifa": 30
+		},
+		{
+		"numdisrecojo": 16,
+		"nomdisrecojo": "Lince",
+		"tarifa": 45
+		},     
+		{
+		"numdisrecojo": 17,
+		"nomdisrecojo": "Magdalena del Mar",
+		"tarifa": 45
+		},    
+		{
+		"numdisrecojo": 18,
+		"nomdisrecojo": "Santiago de Surco",
+		"tarifa": 40
+		},    
+		{
+		"numdisrecojo": 19,
+		"nomdisrecojo": "San Miguel",
+		"tarifa": 45
+		},    
+		{
+		"numdisrecojo": 20,
+		"nomdisrecojo": "La Molina",
+		"tarifa": 60
+		},    
+		{
+		"numdisrecojo": 21,
+		"nomdisrecojo": "Jesús Maria",
+		"tarifa": 45
+		},    
+		{
+		"numdisrecojo": 22,
+		"nomdisrecojo": "Pueblo Libre",
+		"tarifa": 45
+		},  
+		{
+		"numdisrecojo": 23,
+		"nomdisrecojo": "San Borja",
+		"tarifa": 50
+		},  
+		{
+		"numdisrecojo": 24,
+		"nomdisrecojo": "Miraflores",
+		"tarifa": 50
+		},  
+		{
+		"numdisrecojo": 25,
+		"nomdisrecojo": "San Isidro",
+		"tarifa": 50
+		},
+		{
+		"numdisrecojo": 26,
+		"nomdisrecojo": "Lurigancho(Chosica)",
+		"tarifa": 120
+		}, 
+		{
+		"numdisrecojo": 27,
+		"nomdisrecojo": "Cieneguilla",
+		"tarifa": 120
+		},    
+		{
+		"numdisrecojo": 28,
+		"nomdisrecojo": "San Juan de Lurigancho",
+		"tarifa": 120
+		}, 
+		{
+		"numdisrecojo": 29,
+		"nomdisrecojo": "Ate",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 30,
+		"nomdisrecojo": "El Agustino",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 31,
+		"nomdisrecojo": "Santa Anita",
+		"tarifa": 60
+		}, 
+		{
+		"numdisrecojo": 32,
+		"nomdisrecojo": "Chaclacayo",
+		"tarifa": 150
+		}, 
+		{
+		"numdisrecojo": 33,
+		"nomdisrecojo": "Chorrillos",
+		"tarifa": 40
+		},  
+		{
+		"numdisrecojo": 34,
+		"nomdisrecojo": "Lurin",
+		"tarifa": 80
+		},  
+		{
+		"numdisrecojo": 35,
+		"nomdisrecojo": "Pachacamac",
+		"tarifa": 100
+		},   
+		{
+		"numdisrecojo": 36,
+		"nomdisrecojo": "Pucusana",
+		"tarifa": 120
+		},   
+		{
+		"numdisrecojo": 37,
+		"nomdisrecojo": "Punta Hermosa",
+		"tarifa": 150
+		}, 
+		{
+		"numdisrecojo": 38,
+		"nomdisrecojo": "Punta Negra",
+		"tarifa": 150
+		}, 
+		{
+		"numdisrecojo": 39,
+		"nomdisrecojo": "San Bartolo",
+		"tarifa": 150
+		}, 
+		{
+		"numdisrecojo": 40,
+		"nomdisrecojo": "San Juan de Miraflores",
+		"tarifa": 50
+		}, 
+		{
+		"numdisrecojo": 41,
+		"nomdisrecojo": "Santa Maria del Mar",
+		"tarifa": 200
+		}, 
+		{
+		"numdisrecojo": 42,
+		"nomdisrecojo": "Villa el Salvador",
+		"tarifa": 80
+		}, 
+		{
+		"numdisrecojo": 43,
+		"nomdisrecojo": "Villa Maria del Triunfo",
+		"tarifa": 50
+		}           	 
+	],
+ "rutas":[{
+		"ruta": 1,
+		"recojo": "Santiago de Surco",
+		"entrega": "Santiago de Surco",
+		"tarifa": 20,
+		"zona": "zona1"
+		},	
+		{
+		"ruta": 2,
+		"recojo": "Santiago de Surco",
+		"entrega": "La Molina",
+		"tarifa": 25,
+		"zona": "zona1"
+		},	
+		{
+		"ruta": 3,
+		"recojo": "Santiago de Surco",
+		"entrega": "Barranco",
+		"tarifa": 20,
+		"zona": "zona1"
+		},	
+		{
+		"ruta": 4,
+		"recojo": "Santiago de Surco",
+		"entrega": "San Borja",
+		"tarifa": 20,
+		"zona": "zona1"
+		},
+		{
+		"ruta": 5,
+		"recojo": "Santiago de Surco",
+		"entrega": "Surquillo",
+		"tarifa": 20,
+		"zona": "zona1"
+		},
+		{
+		"ruta": 6,
+		"recojo": "Santiago de Surco",
+		"entrega": "Miraflores",
+		"tarifa": 20,
+		"zona": "zona1"
+		},
+		{
+		"ruta": 7,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Jesús María",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 8,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Lince",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 9,
+		"recojo": "Magdalena del Mar",
+		"entrega": "San Isidro",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 10,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Magdalena del Mar",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 11,
+		"recojo": "Magdalena del Mar",
+		"entrega": "San Miguel",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 12,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Pueblo Libre",
+		"tarifa": 20,
+		"zona": "zona2"
+		}                      
+ 				                     	 
+ 	],
+"empaque":[{
+  		"tipoempaque": 1,
+  		"nomtipoempaque": "bolsa",
+  		"presentacion":"bolsa < 10kg", 
+  		"tarifapeso": 0  		 		
+  	}, 
+  	{
+  		"tipoempaque": 1,
+  		"nomtipoempaque": "bolsa",
+  		"presentacion":"bolsa > 10kg", 
+  		"tarifapeso": 5  	 			
+  	},
+  	{
+  		"tipoempaque": 2,
+  		"nomtipoempaque": "caja",
+  		"presentacion":"caja < 10kg", 
+  		"tarifapeso": 0  		 			
+  	},
+  	{
+  		"tipoempaque": 2,
+  		"nomtipoempaque": "caja",
+  		"presentacion":"caja > 10kg", 
+  		"tarifapeso": 5  					
+  	},
+  	{
+  		"tipoempaque": 3,
+  		"nomtipoempaque": "otros",  		
+  		"presentacion":"otros", 
+  		"tarifapeso": 0  					
+  	}  		
+  ] 
+}
