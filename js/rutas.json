@@ -1,0 +1,119 @@
+{
+ "rutas":[{
+		"ruta": 1,
+		"recojo": "Santiago de Surco",
+		"entrega": "Santiago de Surco",
+		"tarifa": 20,
+		"zona": "zona1"
+		},	
+		{
+		"ruta": 2,
+		"recojo": "Santiago de Surco",
+		"entrega": "La Molina",
+		"tarifa": 25,
+		"zona": "zona1"
+		},	
+		{
+		"ruta": 3,
+		"recojo": "Santiago de Surco",
+		"entrega": "Barranco",
+		"tarifa": 20,
+		"zona": "zona1"
+		},	
+		{
+		"ruta": 4,
+		"recojo": "Santiago de Surco",
+		"entrega": "San Borja",
+		"tarifa": 20,
+		"zona": "zona1"
+		},
+		{
+		"ruta": 5,
+		"recojo": "Santiago de Surco",
+		"entrega": "Surquillo",
+		"tarifa": 20,
+		"zona": "zona1"
+		},
+		{
+		"ruta": 6,
+		"recojo": "Santiago de Surco",
+		"entrega": "Miraflores",
+		"tarifa": 20,
+		"zona": "zona1"
+		},
+		{
+		"ruta": 7,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Jesús María",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 8,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Lince",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 9,
+		"recojo": "Magdalena del Mar",
+		"entrega": "San Isidro",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 10,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Magdalena del Mar",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 11,
+		"recojo": "Magdalena del Mar",
+		"entrega": "San Miguel",
+		"tarifa": 20,
+		"zona": "zona2"
+		},
+		{
+		"ruta": 12,
+		"recojo": "Magdalena del Mar",
+		"entrega": "Pueblo Libre",
+		"tarifa": 20,
+		"zona": "zona2"
+		}                      
+ 				                     	 
+ 	],
+"empaque":[{
+  		"tipoempaque": 1,
+  		"nomtipoempaque": "bolsa",
+  		"presentacion":"bolsa < 10kg", 
+  		"tarifapeso": 0  		 		
+  	}, 
+  	{
+  		"tipoempaque": 1,
+  		"nomtipoempaque": "bolsa",
+  		"presentacion":"bolsa > 10kg", 
+  		"tarifapeso": 5  	 			
+  	},
+  	{
+  		"tipoempaque": 2,
+  		"nomtipoempaque": "caja",
+  		"presentacion":"caja < 10kg", 
+  		"tarifapeso": 0  		 			
+  	},
+  	{
+  		"tipoempaque": 2,
+  		"nomtipoempaque": "caja",
+  		"presentacion":"caja > 10kg", 
+  		"tarifapeso": 5  					
+  	},
+  	{
+  		"tipoempaque": 3,
+  		"nomtipoempaque": "otros",  		
+  		"presentacion":"otros", 
+  		"tarifapeso": 0  					
+  	}  		
+  ] 
+}
